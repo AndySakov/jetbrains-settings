@@ -1,0 +1,19 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <EXCLUDED_PACKAGE NAME="*javadsl*" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Cascadia Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Roman" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Roman" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+</application>
