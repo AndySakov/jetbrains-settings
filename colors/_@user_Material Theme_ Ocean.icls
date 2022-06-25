@@ -1,0 +1,57 @@
+<scheme name="_@user_Material Theme: Ocean" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-06-25T01:30:50</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-06-25T01:31:13</property>
+    <property name="originalScheme">Material Theme: Ocean</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="f111a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="f111a" />
+    <option name="GUTTER_BACKGROUND" value="f111a" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2a2d39" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="283136" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2e3234" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="332f33" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="332a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="33252e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="31161c" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="8f93a2" />
+        <option name="BACKGROUND" value="f111a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

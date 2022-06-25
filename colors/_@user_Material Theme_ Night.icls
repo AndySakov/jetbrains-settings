@@ -1,0 +1,57 @@
+<scheme name="_@user_Material Theme: Night" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-06-25T01:30:50</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-06-25T01:31:13</property>
+    <property name="originalScheme">Material Theme: Night</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="292d3e" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="292d3e" />
+    <option name="GUTTER_BACKGROUND" value="292d3e" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="414558" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3e4955" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="454a53" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="494752" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="49424f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="493d4d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="432935" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a6accd" />
+        <option name="BACKGROUND" value="292d3e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

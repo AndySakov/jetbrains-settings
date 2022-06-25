@@ -1,0 +1,57 @@
+<scheme name="_@user_Material Theme: Lighter" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2022-06-25T01:30:50</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-06-25T01:31:13</property>
+    <property name="originalScheme">Material Theme: Lighter</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="fafafa" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
+    <option name="GUTTER_BACKGROUND" value="fafafa" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="f0f1f7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="ecf7f3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="f5f8f1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="fbf4ef" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fbedec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fbe7e8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d5b8b8" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="90a4ae" />
+        <option name="BACKGROUND" value="fafafa" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

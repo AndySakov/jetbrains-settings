@@ -3,7 +3,7 @@
     <property name="created">2022-03-31T23:36:03</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-31T23:39:23</property>
+    <property name="modified">2022-06-25T01:31:12</property>
     <property name="originalScheme">Rider Melon Dark</property>
   </metaInfo>
   <colors>
@@ -66,10 +66,10 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="787878" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="88889940" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="383838" />
@@ -78,10 +78,10 @@
     <option name="ScrollBar.Mac.trackColor" value="383838" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.background" value="383838" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.hoverThumbColor" value="88889940" />
@@ -953,6 +953,41 @@
       <value>
         <option name="BACKGROUND" value="232e46" />
         <option name="ERROR_STRIPE_COLOR" value="293a5f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3e3f43" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3b4340" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="42443f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="46413d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="463c3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="463738" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="412424" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

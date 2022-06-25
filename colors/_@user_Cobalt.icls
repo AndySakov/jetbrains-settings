@@ -1,0 +1,57 @@
+<scheme name="_@user_Cobalt" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-06-25T01:30:50</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-06-25T01:31:13</property>
+    <property name="originalScheme">Cobalt</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="15232d" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="193549" />
+    <option name="GUTTER_BACKGROUND" value="15232d" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="334c61" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="30505e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="37515c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="3b4e5b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3b4859" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3b4456" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="382f3d" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="193549" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
